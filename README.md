@@ -7,3 +7,4 @@ Usage:
 ```
 yarn add git+https://github.com/pash7ka/TypeChain/#dist-typechain-target-truffle
 ```
+**Warning**: This repository will not be suported after TypeChain merges required changes to their own repository. It may be deleted at any time!
